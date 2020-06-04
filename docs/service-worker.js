@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/streamforge-dashboard/precache-manifest.f0ce3ab3595d77f53e0100af161ab89c.js"
+  "/streamforge-browse/precache-manifest.4363b83c4f7c28d2e6d429a40c2fe575.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "streamforge-browse"});
